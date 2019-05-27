@@ -36,6 +36,7 @@ class election():
 		self.winner=winner
 e=(election.name="Lokh Sabha",election.winner="Narendra Modi")
 print(election)
+print(ABC)
 
         
 
